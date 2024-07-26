@@ -2,6 +2,10 @@
 
 A simple web application that displays a random recipe when a button is clicked. This project is built using HTML, CSS, and JavaScript.
 
+## Link
+
+'https://module-3-kffcluwti-hari-safriansyahs-projects.vercel.app/'
+
 ## Features
 
 - Displays a random recipe with an image, title, and instructions.
