@@ -60,8 +60,8 @@ async function onRandomRecipe() {
     recipeContainer.style.display = 'block';
     recipeContainer.classList.add('animate-in');
 
-    // Hide the button after click
-    getRecipeBtn.style.display = 'none';
+    // // Hide the button after click
+    // getRecipeBtn.style.display = 'none';
 
     // Ensure the container is centered
     document.body.style.height = 'auto';
