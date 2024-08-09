@@ -4,7 +4,7 @@ A simple web application that displays a random recipe when a button is clicked.
 
 ## Link
 
-[Random Recipe Finder](https://module-3-kffcluwti-hari-safriansyahs-projects.vercel.app/)
+[Random Recipe Finder](https://module-3-five.vercel.app//)
 
 ## Features
 
